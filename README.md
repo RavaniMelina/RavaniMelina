@@ -16,7 +16,8 @@
     <img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347">
     <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F">
      <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white
- <img align"right " heigth="150" src="https://media1.tenor.com/m/yQ6QlIyJf-EAAAAC/cats-computer.gif">
+ <img align"right " heigth="150" src="![programador](https://github.com/RavaniMelina/RavaniMelina/assets/169398689/1184f78b-3044-41e5-aaaa-5ad3585ebd07)
+">
    
 
  
