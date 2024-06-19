@@ -1,5 +1,7 @@
-- 👋 Oi, eu sou Melina Ravani.
+- 👋 Olá, eu sou Melina Ravani, bem vindo ao meu GitHub (portifólio em construção...)
 - 🌱 Estudante de Analise e Desenvolvimento de Sistemas.
+- Futura Dev Backend!
+- Estou disponível para o meu primeiro emprego na área de tecnologia!
 - 📫 pode me encontrar pelo likedldn
 - https://www.linkedin.com/in/melina-ravani-17740314a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_appdeli
 - email:melravani3@outlook.com
